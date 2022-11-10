@@ -1,0 +1,7 @@
+{
+    "scalingFactor": 40,
+    "minServerThreads": 5000,
+    "maxServerThreads": 6000000,
+    "minWorkers": 10,
+    "maxWorkers": 40
+}
